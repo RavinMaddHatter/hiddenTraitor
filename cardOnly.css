@@ -1,0 +1,12 @@
+.bottom{
+     width:250px;
+     height:350px;
+     position:absolute;
+	 z-index: 1;
+ }
+.top{
+     width:250px;
+     height:350px;
+     position:absolute;
+	 z-index: 2;
+}
